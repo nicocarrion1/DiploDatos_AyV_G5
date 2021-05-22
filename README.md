@@ -11,6 +11,8 @@ Tener instalado en el entorno virtual de ejecucion:
 
 
 pandas
+
 seaborn=0.11
+
 matplotlib
 
