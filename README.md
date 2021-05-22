@@ -16,3 +16,4 @@ seaborn=0.11
 
 matplotlib
 
+*Grupo 5: Nicolás Carrión, Génesis Núñez Sanchez, Magdalena Sella, Exequiel Santucho*
